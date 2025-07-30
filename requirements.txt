@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+
+
+yfinance
+
+pandas
+pandas-tanumpy<2.0
